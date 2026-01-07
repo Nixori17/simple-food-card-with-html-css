@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
+.card {
+  padding: 1rem;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid;
+  border-color: black;
+}
+.Image img {
+  width: 300px;
+  height: auto;
+}
